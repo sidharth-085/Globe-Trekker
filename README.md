@@ -7,9 +7,3 @@ Questions related to countries
 Congratulations screen with user's name and score
 Kotlin programming language
 Android Studio IDE
-
-Credits
-This application was developed by Sidharth Kapoor as a project for learning Android development using Kotlin.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
